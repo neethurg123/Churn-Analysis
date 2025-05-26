@@ -5,6 +5,6 @@ This repository contains the work a virtual internship project, influential fact
 1. Investigate the impact of different factors on customer churn.
 2. Apply frameworks for exploratory data analysis.
 3. Use Python to clean, process, and analyze client data.
-4. Build predictive models to assess churn risk- Random Forest (for feature importance)
+4. Build predictive models to assess churn risk- Random Forest (for feature importance) for a cleaned dataset
 5. Create data visualizations to highlight key trends.
 
