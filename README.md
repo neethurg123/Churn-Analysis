@@ -1,4 +1,4 @@
-# VirtualProjects
+# Churn Analysis - Virtual Internship
 This repository contains the work a virtual internship project, influential factor in customer churn for an energy source provider are explored. The project covers exploratory data analysis (EDA), predictive modeling, and visual communication of insights using Python.
 
 **Project Objectives**
